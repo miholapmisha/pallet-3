@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #3c40c6;
+  color: #fff;
+  background-image: url(https://flatuicolors.com/static/img/stars-opacity.0979c1.svg);
+}
